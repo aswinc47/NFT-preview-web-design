@@ -115,7 +115,7 @@ span:hover {
 .overlay:hover {
     cursor: pointer;
     background-color: rgba(0, 255, 247, 0.6);
-    background-image: url(./images/icon-view.svg);
+    background-image: url(../images/icon-view.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
