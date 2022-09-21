@@ -30,7 +30,7 @@ Users should be able to:
 ![](/screenshots/Capture.PNG)
 ### Links
 
-- Solution URL:(https://your-solution-url.com)
+- Solution URL:(https://github.com/aswinc47/NFT-preview-web-design.git)
 - Live Site URL:(https://aswinc47.github.io/NFT-preview-web-design/)
 
 ## My process
